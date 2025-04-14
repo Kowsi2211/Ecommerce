@@ -24,3 +24,5 @@ OrderItem: Represents individual items within an order.
 Shipping: Contains shipping details for physical product orders.
 
 The goal of this project is to provide a seamless shopping experience for both authenticated users and guests, with a simple and secure checkout process.
+![er diagram](https://github.com/user-attachments/assets/a8cc5664-8bb8-4262-9e74-04393ba99cbf)
+
